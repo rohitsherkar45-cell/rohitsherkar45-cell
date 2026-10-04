@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 My Project 
- . My first Project - https://github.com/rohitsherkar45-cell/CodeandCommunitDay2-
+
+My first Project - https://github.com/rohitsherkar45-cell/CodeandCommunitDay2-
 
 
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
