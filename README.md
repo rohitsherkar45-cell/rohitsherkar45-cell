@@ -117,7 +117,7 @@ Programming Fundamentals
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsherkar45-cell&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsherkar45-cell&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsherkar45-cell&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
