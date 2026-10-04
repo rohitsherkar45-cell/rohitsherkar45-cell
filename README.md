@@ -70,7 +70,7 @@ print(rohit.say_hello())
 
 ### 🤖 Areas of Interest
 
-`Artificial Intelligence` `IoT` `Automation` `Embedded Systems` `Software Development` `Computer Vision`
+`Artificial Intelligence` `IoT` `Automation`  `Software Development` `Computer Vision`
 
 ---
 
