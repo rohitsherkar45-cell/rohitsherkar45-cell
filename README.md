@@ -20,7 +20,6 @@
 ## 🚀 About Me
 
 **I'm an Computer Engineering student** passionate about technology, programming, and building practical solutions.
-
 I'm currently developing my skills in **Python, Git, GitHub, Software Development, AI, and IoT** while working on projects that combine hardware and software.
 
 ```python
@@ -67,8 +66,7 @@ print(rohit.say_hello())
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+
 
 ### 🤖 Areas of Interest
 
