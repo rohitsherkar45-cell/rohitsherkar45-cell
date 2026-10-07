@@ -97,19 +97,19 @@ My first GitHub project created while learning and practicing programming, Git, 
 ## 🧠 Learning Journey
 
 ```text
-Programming Fundamentals
+ Programming Fundamentals
         ↓
-      Python 🐍
+     Python 🐍
         ↓
    Git & GitHub 🔧
         ↓
  Software Development 💻
         ↓
-    AI & Computer Vision 🤖
+ AI & Computer Vision 🤖
         ↓
-     IoT & Automation 🌐
+  IoT & Automation 🌐
         ↓
-   Real-World Projects 🚀
+  Real-World Projects 🚀
 ```
 
 ---
